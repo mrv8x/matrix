@@ -68,9 +68,7 @@ class Math_Matrix {/*{{{*/
 
     /**#@+
 
-     * @access private
-
-     * @var    float
+     
 
      */
 
