@@ -14,7 +14,6 @@ class Math_Matrix {/*{{{*/
      * @access private
 
      */
-
  
 
     /**
