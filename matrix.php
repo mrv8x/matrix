@@ -227,7 +227,6 @@ class Math_Matrix {/*{{{*/
         } elseif (is_array($data) || is_array($data[0])) {
 
             // check that we got a numeric bidimensional array
-
             // and that all rows are of the same size
 
             $nc = 0;
@@ -253,7 +252,6 @@ class Math_Matrix {/*{{{*/
                     return PEAR::raiseError('Invalid data, cannot create/modify matrix.'.
 
                         ' Expecting an array of arrays or an initialized Math_Matrix object');
-
                 }
 
                 for ($j=0; $j < $nc; $j++) {
@@ -305,7 +303,6 @@ class Math_Matrix {/*{{{*/
     }/*}}}*/
 
  
-
     /**
 
      * Returns the array of arrays.
