@@ -13,9 +13,7 @@ class Math_Matrix {/*{{{*/
 
      * @access private
 
-     */
- 
-
+     
     /**
 
      * Contains the array of arrays defining the matrix
