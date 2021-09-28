@@ -27,7 +27,6 @@ class Math_Matrix {/*{{{*/
 
     var $_data = null;
 
- 
 
     /**
 
