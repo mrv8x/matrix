@@ -8,7 +8,6 @@ class Math_Matrix {/*{{{*/
 
     // Properties /*{{{*/
 
-
     /**#@+
 
      * @access private
