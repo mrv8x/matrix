@@ -329,9 +329,6 @@ class Math_Matrix {/*{{{*/
         }
 
     }/*}}}*/
-
- 
-
     /**
 
      * Sets the threshold to consider a numeric value as zero:
