@@ -68,19 +68,7 @@ class Math_Matrix {/*{{{*/
 
  
 
-    /**
-
-     * A flag indicating if the matrix is square
-
-     * i.e. if $this->_num_cols == $this->_num_rows
-
-     *
-
-     * @var     boolean 
-
-     * @see     isSquare()
-
-     */
+  
 
     var $_square = false;
 
