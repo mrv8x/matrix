@@ -38,15 +38,7 @@ class Math_Matrix {/*{{{*/
 
     /**
 
-     * The number of rows in the matrix
-
-     *
-
-     * @var     integer 
-
-     * @see     getSize()
-
-     */
+     
 
     var $_num_rows = null;
 
