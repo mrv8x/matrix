@@ -37,7 +37,7 @@ class Math_Matrix {/*{{{*/
 
      *
 
-     * @var     integer 
+     * @var     integerr
 
      * @see     getSize()
 
