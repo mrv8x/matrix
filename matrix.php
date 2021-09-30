@@ -6,8 +6,7 @@ require_once 'Math/Vector.php';
 
 class Math_Matrix {/*{{{*/
 
-    // Properties /*{{{*/
-
+    // Properties /*{{{
     /**#@+
 
      * @access private
