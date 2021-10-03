@@ -16,7 +16,7 @@ class Math_Matrix {/*{{{*/
 
      *
 
-     * @var     array 
+
 
      * @see     getData()
 
