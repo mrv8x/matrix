@@ -22,8 +22,6 @@ class Math_Matrix {/*{{{*/
     var $_data = null;
 
 
-     
-
     var $_num_rows = null;
 
  
