@@ -41,12 +41,10 @@ class Math_Matrix {/*{{{*/
 
      * @see     getSize()
 
-     */
-
+     **/
     var $_num_cols = null;
 
  
-
   
 
     var $_square = false;
@@ -96,8 +94,7 @@ class Math_Matrix {/*{{{*/
      * The Euclidean norm for the matrix: sqrt(sum(e[i][j]^2))
 
      *
-
-     * @see norm()
+     * @see norm
 
      */
 
@@ -118,7 +115,6 @@ class Math_Matrix {/*{{{*/
     var $_det = null;
 
  
-
     /**
 
      * Cutoff error used to test for singular or ill-conditioned matrices
@@ -139,7 +135,7 @@ class Math_Matrix {/*{{{*/
 
  
 
-    /**#@+
+    /**#
 
      * @access  public
 
@@ -155,8 +151,7 @@ class Math_Matrix {/*{{{*/
 
      * @param   array|Math_Matrix  $data a numeric array of arrays of a Math_Matrix object
 
-     * @return    object    Math_Matrix 
-
+     * @return    object    Math_Matrix
      * @see     $_data
 
      * @see     setData()
