@@ -14,7 +14,7 @@ class Math_Matrix {/*{{{*/
 
      * Contains the array of arrays defining the matrix
 
-     *
+     
      * @see     getData
 
      */
