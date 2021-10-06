@@ -16,8 +16,6 @@ class Math_Matrix {/*{{{*/
 
      *
 
-
-
      * @see     getData()
 
      */
